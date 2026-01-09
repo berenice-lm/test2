@@ -5,8 +5,6 @@ permalink: /piliers/
 sitemap: false
 ---
 
-# Les piliers de la progressivité en cartographie
-
 blabla introduction
 
 ## La séquence

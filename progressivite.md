@@ -5,8 +5,6 @@ permalink: /progressivite/
 sitemap: false
 ---
 
-# La progressivité dans les médias
-
 blabla introduction
 
 ## La progressivité dans le cinéma
