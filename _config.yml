@@ -2,7 +2,7 @@
 # Site Settings                                                                                                        #
 ########################################################################################################################
 
-url: "https://tseknet.com"
+url: "https://berenice-lm.github.io"
 baseurl: ''
 
 ########################################################################################################################
@@ -13,7 +13,7 @@ lang: fr
 title: La Progressivité
 description: Site de vulgarisation scientifique
 # A shorter description for the sidebar.
-tagline: Site de vulgarisation
+tagline: Site de vulgarisation scientifique
 
 keywords: [
   'cartographie',
@@ -41,10 +41,16 @@ share-links-active:
 
 # Add links to the sidebar.
 menu:
-  - title: Blog
-    url: /blog/
-  - title: About
-    url: /about/
+  - title: La progressivité dans les médias
+    url: /progressivite/
+  - title: Les piliers de la progressivité
+    url: /piliers/
+  - title: Expériences cartographiques
+    url: /experiences/
+  - title: Écouter une carte pan-scalaire
+    url: /musique/
+  - title: La progressivité en BD
+    url: /BD/
 
 copyright: ''
 
@@ -55,7 +61,7 @@ permalink: /blog/:title
 ########################################################################################################################
 
 # Sidebar image and theme color of the site.
-accent_image: /assets/img/sidebar-bg.jpg
+accent_image: /assets/img/background2.jpg
 accent_color: rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -269,8 +275,6 @@ google_site_verification: UA-175070505-1
 
 # Used on index and about sites
 social:
-  name: Dan Tsekhanskiy
+  name: Bérénice Le Mao
 links:
-- https://twitter.com/TsekNet
-- https://github.com/TsekNet
-- https://www.linkedin.com/in/TsekNet
+- https://github.com/berenice-lm
