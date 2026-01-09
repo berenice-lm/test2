@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Expériences
 permalink: /experiences/
 paginate: true

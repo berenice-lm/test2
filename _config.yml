@@ -113,9 +113,6 @@ collections:
   featured_tags:
     permalink: /tag/:name
     output: true
-  posts:
-    output: true
-    source: blog/_posts
 
 ########################################################################################################################
 # 3rd Party Integrations                                                                                               #
