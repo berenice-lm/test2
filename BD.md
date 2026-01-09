@@ -1,5 +1,7 @@
 ---
 layout: default
+title: La progressivité en BD
+permalink: /bd/
 ---
 
 # La progressivité en BD
