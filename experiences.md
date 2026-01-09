@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: default
 title: Expériences
 description: >
   blabla
