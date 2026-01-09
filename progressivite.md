@@ -1,5 +1,7 @@
 ---
 layout: default
+title: La progressivité dans les médias
+permalink: /progressivite/
 sitemap: false
 ---
 

@@ -4,8 +4,6 @@ title: La progressivité en BD
 permalink: /bd/
 ---
 
-# La progressivité en BD
-
 **NOTE**: Il est conseillé de lire la BD sur téléphone
 {:.message}
 
