@@ -3,6 +3,7 @@ layout: post
 title: How I Automated Software Management
 image: /assets/img/blog/chocolatebar.jpg
 categories: experiences
+date: 2025-03-12
 description: >
   How I automated my Windows Software Management
 tags: [dev, automation, windows, powershell]

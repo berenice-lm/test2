@@ -8,5 +8,3 @@ description: >
   blabla
 no_groups: false
 ---
-
-## Expériences
